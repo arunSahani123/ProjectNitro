@@ -1,0 +1,20 @@
+This is a sample text file for testing the File Parser API.
+
+The API supports various file formats including:
+- CSV files
+- Excel files (.xlsx, .xls)  
+- PDF files
+- Text files
+
+Features include:
+✓ File upload with progress tracking
+✓ Real-time progress updates via WebSocket
+✓ Asynchronous file processing
+✓ JWT authentication
+✓ Complete CRUD operations
+✓ Comprehensive API documentation
+
+The system is built with Django and uses Celery for background task processing.
+Redis is used for caching and as a message broker.
+
+This text file can be used to test the file upload and parsing functionality.
